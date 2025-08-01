@@ -1,6 +1,5 @@
-# conversor-moedas
-
 # 💱 Conversor de Moedas em Java
+
 
 Este é um projeto de console desenvolvido em Java que realiza a conversão de moedas em tempo real utilizando uma API pública de câmbio. Ele foi criado como prática de orientação a objetos, consumo de APIs com `HttpClient`, e uso da biblioteca `Gson` para desserialização de JSON.
 
